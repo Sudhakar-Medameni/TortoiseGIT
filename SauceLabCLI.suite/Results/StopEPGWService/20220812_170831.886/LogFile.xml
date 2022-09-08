@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="StopEPGWService_script" package="SauceLabCLI.suite" timestamp="2022-08-12 17:08:31.886 +0100"
+ tests="1"  failures="0" errors="0" time="0.177287">
+  <properties>
+   <property name="RunDate" value="2022-08-12 17:08:31.886 +0100"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="StopEPGWService.script" assertions="1" status="success"  time="0.171228">
+  </testcase>
+ </testsuite>
+</testsuites>

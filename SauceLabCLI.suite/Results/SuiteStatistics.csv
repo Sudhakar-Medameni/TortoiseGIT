@@ -1,0 +1,4 @@
+﻿Script,Last Status,Runs,Fails,First Run,Last Run,Avg Time(Success)
+StopEPGWService,Failure,4,2,2022-08-12 17:08:31 +0100,2022-08-12 17:14:19 +0100,0:00:00
+ConnectToDevice,Success,2,0,2022-08-12 17:08:17 +0100,2022-08-12 17:13:49 +0100,0:00:00
+StartVNCConnection,Success,2,0,2022-08-12 17:05:23 +0100,2022-08-12 17:13:02 +0100,0:00:58

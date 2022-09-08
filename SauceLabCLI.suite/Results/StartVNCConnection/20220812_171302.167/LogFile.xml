@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="StartVNCConnection_script" package="SauceLabCLI.suite" timestamp="2022-08-12 17:13:02.167 +0100"
+ tests="1"  failures="0" errors="0" time="26.568543">
+  <properties>
+   <property name="RunDate" value="2022-08-12 17:13:02.167 +0100"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="StartVNCConnection.script" assertions="2" status="success"  time="26.564912">
+  </testcase>
+ </testsuite>
+</testsuites>

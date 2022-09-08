@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="ConnectToDevice_script" package="SauceLabCLI.suite" timestamp="2022-08-12 17:13:49.355 +0100"
+ tests="1"  failures="0" errors="0" time="1.100651">
+  <properties>
+   <property name="RunDate" value="2022-08-12 17:13:49.355 +0100"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="ConnectToDevice.script" assertions="1" status="success"  time="1.095925">
+  </testcase>
+ </testsuite>
+</testsuites>

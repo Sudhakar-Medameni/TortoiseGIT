@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="StopEPGWService">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2022-08-12 17:08:31 +0100</FirstRun>
+  <LastRun>2022-08-12 17:14:19 +0100</LastRun>
+  <TotalTimeOnSuccess>0.346741</TotalTimeOnSuccess>
+ </script>
+ <script name="ConnectToDevice">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2022-08-12 17:08:17 +0100</FirstRun>
+  <LastRun>2022-08-12 17:13:49 +0100</LastRun>
+  <TotalTimeOnSuccess>1.849622</TotalTimeOnSuccess>
+ </script>
+ <script name="StartVNCConnection">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2022-08-12 17:05:23 +0100</FirstRun>
+  <LastRun>2022-08-12 17:13:02 +0100</LastRun>
+  <TotalTimeOnSuccess>117.995335</TotalTimeOnSuccess>
+ </script>
+</statistics>

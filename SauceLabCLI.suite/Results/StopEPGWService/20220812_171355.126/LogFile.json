@@ -1,0 +1,28 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running StopEPGWService.script",
+      "timestamp" : "2022-08-12 17:13:55.129 +0100"
+    },
+    {
+      "handlerName" : "on_stopepgwservice",
+      "message" : "Assertion Succeeded:  (assertion: MyRes = 0; true: 0 IS equal to 0)",
+      "timestamp" : "2022-08-12 17:13:55.210 +0100",
+      "identifier" : "LogSuccess",
+      "scriptName" : "StopEPGWService.script",
+      "handlerLine" : 3
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.164646\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2022-08-12 17:13:55 +0100\", Successes:\"1\", TestCase:\"StopEPGWService.script\", Warnings:\"0\")",
+      "timestamp" : "2022-08-12 17:13:55.296 +0100"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 StopEPGWService.script",
+      "timestamp" : "2022-08-12 17:13:55.307 +0100"
+    }
+  ],
+  "createdTimestamp" : "2022-08-12 17:13:55.131 +0100"
+}

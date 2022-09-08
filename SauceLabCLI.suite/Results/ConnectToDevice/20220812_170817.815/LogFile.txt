@@ -1,0 +1,4 @@
+﻿2022-08-12 17:08:17.818 +0100	START		Running ConnectToDevice.script
+2022-08-12 17:08:18.255 +0100	connect		localhost:5900	2	on_connecttodevice	ConnectToDevice.script
+2022-08-12 17:08:18.565 +0100	EndTestCase		(Duration:"0.744864", Errors:"0", Exceptions:"0", StartTime:"2022-08-12 17:08:17 +0100", Successes:"1", TestCase:"ConnectToDevice.script", Warnings:"0")
+2022-08-12 17:08:18.575 +0100	SUCCESS		Execution Time 0:00:00 ConnectToDevice.script

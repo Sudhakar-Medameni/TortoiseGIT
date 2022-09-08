@@ -1,0 +1,92 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running StartVNCConnection.script",
+      "timestamp" : "2022-08-12 17:13:02.170 +0100"
+    },
+    {
+      "handlerName" : "on_startvncconnection",
+      "message" : "create the SUT reservation",
+      "timestamp" : "2022-08-12 17:13:02.207 +0100",
+      "identifier" : "Log",
+      "scriptName" : "StartVNCConnection.script",
+      "handlerLine" : 10
+    },
+    {
+      "handlerName" : "on_startvncconnection",
+      "message" : "Assertion Succeeded:  (assertion: MyRes = 0; true: 0 IS equal to 0)",
+      "timestamp" : "2022-08-12 17:13:03.148 +0100",
+      "identifier" : "LogSuccess",
+      "scriptName" : "StartVNCConnection.script",
+      "handlerLine" : 16
+    },
+    {
+      "handlerName" : "on_startvncconnection",
+      "message" : "Create the VNC connection for the Gateway - run it async to not lock the script \/ output log to the path",
+      "timestamp" : "2022-08-12 17:13:03.150 +0100",
+      "identifier" : "Log",
+      "scriptName" : "StartVNCConnection.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_startvncconnection",
+      "message" : "0",
+      "timestamp" : "2022-08-12 17:13:03.222 +0100",
+      "identifier" : "Log",
+      "scriptName" : "StartVNCConnection.script",
+      "handlerLine" : 24
+    },
+    {
+      "handlerName" : "on_startvncconnection",
+      "message" : "Assertion Succeeded:  (assertion: item 2 of MyRes contains \"Connecting to your device\"; true: \\nConnecting to your device: 0%\\n DOES contain Connecting to your device)",
+      "timestamp" : "2022-08-12 17:13:08.309 +0100",
+      "identifier" : "LogSuccess",
+      "scriptName" : "StartVNCConnection.script",
+      "handlerLine" : 32
+    },
+    {
+      "handlerName" : "on_startvncconnection",
+      "message" : "waiting for the vnc server to start",
+      "timestamp" : "2022-08-12 17:13:08.400 +0100",
+      "identifier" : "Log",
+      "scriptName" : "StartVNCConnection.script",
+      "handlerLine" : 39
+    },
+    {
+      "handlerName" : "on_startvncconnection",
+      "message" : "waiting for the vnc server to start",
+      "timestamp" : "2022-08-12 17:13:13.430 +0100",
+      "identifier" : "Log",
+      "scriptName" : "StartVNCConnection.script",
+      "handlerLine" : 39
+    },
+    {
+      "handlerName" : "on_startvncconnection",
+      "message" : "waiting for the vnc server to start",
+      "timestamp" : "2022-08-12 17:13:18.522 +0100",
+      "identifier" : "Log",
+      "scriptName" : "StartVNCConnection.script",
+      "handlerLine" : 39
+    },
+    {
+      "handlerName" : "on_startvncconnection",
+      "message" : "waiting for the vnc server to start",
+      "timestamp" : "2022-08-12 17:13:23.554 +0100",
+      "identifier" : "Log",
+      "scriptName" : "StartVNCConnection.script",
+      "handlerLine" : 39
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"26.564912\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2022-08-12 17:13:02 +0100\", Successes:\"2\", TestCase:\"StartVNCConnection.script\", Warnings:\"0\")",
+      "timestamp" : "2022-08-12 17:13:28.736 +0100"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:26 StartVNCConnection.script",
+      "timestamp" : "2022-08-12 17:13:28.746 +0100"
+    }
+  ],
+  "createdTimestamp" : "2022-08-12 17:13:02.171 +0100"
+}

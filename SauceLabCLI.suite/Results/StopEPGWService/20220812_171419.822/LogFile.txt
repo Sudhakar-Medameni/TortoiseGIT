@@ -1,0 +1,3 @@
+﻿2022-08-12 17:14:19.824 +0100	START		Running StopEPGWService.script
+2022-08-12 17:14:20.064 +0100	EndTestCase		(Duration:"0.238086", Errors:"1", Exceptions:"0", StartTime:"2022-08-12 17:14:19 +0100", Successes:"0", TestCase:"StopEPGWService.script", Warnings:"0")
+2022-08-12 17:14:20.074 +0100	FAILURE		AssertionFailed:  (assertion: MyRes = 0; actually: 1 IS NOT equal to 0) -- Execution Time 0:00:00 StopEPGWService.script

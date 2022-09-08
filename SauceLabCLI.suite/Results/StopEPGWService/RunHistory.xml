@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="StopEPGWService">
+ <run>
+  <RunDate>2022-08-12 17:08:31.886 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>0.177287</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20220812_170831.886/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-08-12 17:12:54.871 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.233265</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20220812_171254.871/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>AssertionFailed --  (assertion: MyRes = 0; actually: 1 IS NOT equal to 0)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-08-12 17:13:55.126 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>0.169454</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20220812_171355.126/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-08-12 17:14:19.822 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.241511</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20220812_171419.822/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>AssertionFailed --  (assertion: MyRes = 0; actually: 1 IS NOT equal to 0)</ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,1 @@
+2022-08-12 17:12:54.871 +0100,Failure,0:00:00,1,0,0,20220812_171254.871/LogFile.txt,"","AssertionFailed --  (assertion: MyRes = 0; actually: 1 IS NOT equal to 0)",0

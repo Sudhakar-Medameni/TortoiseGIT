@@ -1,0 +1,3 @@
+﻿Shell("pkill epgw")
+put the result into MyRes
+Assert that MyRes = 0

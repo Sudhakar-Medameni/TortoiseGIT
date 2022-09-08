@@ -1,0 +1,28 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running ConnectToDevice.script",
+      "timestamp" : "2022-08-12 17:13:49.358 +0100"
+    },
+    {
+      "handlerName" : "on_connecttodevice",
+      "message" : "localhost:5900",
+      "timestamp" : "2022-08-12 17:13:50.112 +0100",
+      "identifier" : "connect",
+      "scriptName" : "ConnectToDevice.script",
+      "handlerLine" : 2
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.095925\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2022-08-12 17:13:49 +0100\", Successes:\"1\", TestCase:\"ConnectToDevice.script\", Warnings:\"0\")",
+      "timestamp" : "2022-08-12 17:13:50.456 +0100"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:01 ConnectToDevice.script",
+      "timestamp" : "2022-08-12 17:13:50.466 +0100"
+    }
+  ],
+  "createdTimestamp" : "2022-08-12 17:13:49.359 +0100"
+}

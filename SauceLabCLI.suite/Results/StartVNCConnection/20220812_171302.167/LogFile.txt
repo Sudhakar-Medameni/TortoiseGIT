@@ -1,0 +1,12 @@
+﻿2022-08-12 17:13:02.170 +0100	START		Running StartVNCConnection.script
+2022-08-12 17:13:02.207 +0100	Log		create the SUT reservation	10	on_startvncconnection	StartVNCConnection.script
+2022-08-12 17:13:03.148 +0100	LogSuccess		Assertion Succeeded:  (assertion: MyRes = 0; true: 0 IS equal to 0)	16	on_startvncconnection	StartVNCConnection.script
+2022-08-12 17:13:03.150 +0100	Log		Create the VNC connection for the Gateway - run it async to not lock the script / output log to the path	18	on_startvncconnection	StartVNCConnection.script
+2022-08-12 17:13:03.222 +0100	Log		0	24	on_startvncconnection	StartVNCConnection.script
+2022-08-12 17:13:08.309 +0100	LogSuccess		Assertion Succeeded:  (assertion: item 2 of MyRes contains "Connecting to your device"; true: \nConnecting to your device: 0%\n DOES contain Connecting to your device)	32	on_startvncconnection	StartVNCConnection.script
+2022-08-12 17:13:08.400 +0100	Log		waiting for the vnc server to start	39	on_startvncconnection	StartVNCConnection.script
+2022-08-12 17:13:13.430 +0100	Log		waiting for the vnc server to start	39	on_startvncconnection	StartVNCConnection.script
+2022-08-12 17:13:18.522 +0100	Log		waiting for the vnc server to start	39	on_startvncconnection	StartVNCConnection.script
+2022-08-12 17:13:23.554 +0100	Log		waiting for the vnc server to start	39	on_startvncconnection	StartVNCConnection.script
+2022-08-12 17:13:28.736 +0100	EndTestCase		(Duration:"26.564912", Errors:"0", Exceptions:"0", StartTime:"2022-08-12 17:13:02 +0100", Successes:"2", TestCase:"StartVNCConnection.script", Warnings:"0")
+2022-08-12 17:13:28.746 +0100	SUCCESS		Execution Time 0:00:26 StartVNCConnection.script
